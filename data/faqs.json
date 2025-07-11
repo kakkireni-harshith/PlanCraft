@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "question": "What is Plancraft?",
+    "answer": "Plancraft is a professional project management tool that helps teams streamline planning, tracking, and collaboration in one place."
+  },
+  {
+    "id": "2",
+    "question": "Is Plancraft suitable for small teams?",
+    "answer": "Yes, Plancraft is designed to scale from individuals and small teams to large organizations, offering tools that adapt to your workflow."
+  },
+  {
+    "id": "3",
+    "question": "Does Plancraft support real-time collaboration?",
+    "answer": "Absolutely! Plancraft enables real-time updates, comments, and notifications to keep your entire team on the same page."
+  },
+  {
+    "id": "4",
+    "question": "Can I integrate Plancraft with other tools?",
+    "answer": "Yes, Plancraft supports integrations with popular tools like Slack, GitHub, Google Calendar, and more to enhance your productivity."
+  },
+  {
+    "id": "5",
+    "question": "Is my data secure on Plancraft?",
+    "answer": "We prioritize your data security. Plancraft uses industry-standard encryption and follows best practices for data protection and privacy."
+  },
+  {
+    "id": "6",
+    "question": "Do you offer a free trial?",
+    "answer": "Yes, we offer a 14-day free trial with access to all premium features—no credit card required."
+  },
+  {
+    "id": "7",
+    "question": "How can I get support?",
+    "answer": "Our support team is available via email, chat, and knowledge base to help you with any questions or issues."
+  }
+]
